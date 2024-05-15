@@ -1,0 +1,7 @@
+{
+  "name": "submitComment",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

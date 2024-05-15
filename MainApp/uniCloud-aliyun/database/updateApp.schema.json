@@ -1,0 +1,1 @@
+{"bsonType":"object","required":["apkUrl","content","new_version"],"permission":{"read":true,"create":true,"update":true,"delete":true},"properties":{"_id":{"description":"ID，系统自动生成"},"apkUrl":{"minLength":5,"description":"apk的下载链接"},"content":{"minLength":2,"description":"具体的升级内容"},"new_version":{"minLength":2,"description":"新的版本号"}}}

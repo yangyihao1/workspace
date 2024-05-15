@@ -1,0 +1,7 @@
+{
+  "name": "deleteImageText",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "getUpdateData",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

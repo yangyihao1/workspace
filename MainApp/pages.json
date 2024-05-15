@@ -1,0 +1,50 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index"
+		},
+		{
+			"path": "components/upgrade/upgrade"
+		},
+		{
+			"path": "components/formwork/formwork"
+		},
+		{
+			"path": "pages/adminPage/adminPage"
+		},
+		{
+			"path": "pages/adminPage/deleteData/deleteData"
+		},
+		{
+			"path": "pages/loginInterface/loginInterface"
+		},
+		{
+			"path": "pages/registerInterface/registerInterface"
+		},
+		{
+			"path": "pages/imageText/imageText"
+		},
+		{
+			"path": "pages/submitUpdates/submitUpdates"
+		},
+		{
+			"path": "pages/adminPage/deleteComment/deleteComment"
+		},
+		{
+			"path": "pages/adminPage/modifyData/modifyData"
+		},
+		{
+			"path": "pages/adminPage/deleteImageText/deleteImageText"
+		},
+		{
+			"path": "pages/commentSection/commentSection"
+		},
+		{
+			"path": "pages/adminPage/modifyNotice/modifyNotice"
+		}
+
+	],
+	"globalStyle": {
+		"navigationStyle": "custom"
+	}
+}

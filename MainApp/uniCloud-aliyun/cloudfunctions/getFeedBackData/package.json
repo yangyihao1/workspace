@@ -1,0 +1,7 @@
+{
+  "name": "getFeedBackData",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

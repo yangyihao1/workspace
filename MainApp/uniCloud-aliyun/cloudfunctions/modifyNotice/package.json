@@ -1,0 +1,7 @@
+{
+  "name": "modifyNotice",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
